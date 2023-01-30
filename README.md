@@ -1,0 +1,1 @@
+Various topics across machine learning in R. These were codes used in some teaching examples. Each file should be named appropriately based on content and each section of code is commented for function.
